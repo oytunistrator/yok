@@ -1,17 +1,17 @@
 # YOK!
 Böyle Bir Proje Yok!
 
-# Amaç:
+# Amaç
 Hiç bir amacı yok.
 
-# Hedef:
+# Hedef
 Hiç bir hedefi yok.
 
-# Hayal Edilen:
+# Hayal Edilen
 Hiç bir hayali yok.
 
-# Kurma:
-Sudo mudo yok. Direkt kurulum yok. Beklemek yok. 
+# Kurma
+Sudo mudo yok. Direkt kurulum yok. Beklemek yok. Go ya gerek yok.
 
 ```
 $ go get -v github.com/oytunistrator/yok
@@ -23,3 +23,5 @@ $ go get -v github.com/oytunistrator/yok
 - Programlama Dili: Go (Go bilmeye gerek YOK!)
 - İşlemciye ve rame Gerek YOK!
 - Bilgisayara bile gerek YOK!
+- Ekibe gerek YOK!
+- İnsana gerek YOK!
